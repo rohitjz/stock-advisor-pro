@@ -1,0 +1,11 @@
+{
+  "name": "stock-advisor-pro",
+  "owner": { "name": "rohitjz" },
+  "plugins": [
+    {
+      "name": "stock-advisor-pro",
+      "source": "./",
+      "description": "Free, pro-grade stock analysis for Claude Code: research, modeling, earnings, coverage, and thesis tracking on a free data stack."
+    }
+  ]
+}

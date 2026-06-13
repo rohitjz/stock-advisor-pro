@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "tradingview": {
+      "command": "uvx",
+      "args": ["--from", "tradingview-mcp-server", "tradingview-mcp"]
+    },
+    "financial-datasets": {
+      "command": "uv",
+      "args": ["run", "--directory", "/absolute/path/to/financial-datasets-mcp", "server.py"],
+      "env": {
+        "FINANCIAL_DATASETS_API_KEY": "get_a_free_key_at_financialdatasets.ai"
+      }
+    }
+  }
+}

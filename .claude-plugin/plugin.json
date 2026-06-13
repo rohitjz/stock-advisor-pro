@@ -1,0 +1,9 @@
+{
+  "name": "stock-advisor-pro",
+  "version": "0.1.0",
+  "description": "Free, pro-grade stock analysis for Claude Code: market research, DCF/LBO/comps/3-statement modeling, earnings notes, coverage initiation, and thesis tracking, wired to free market data. Not financial advice.",
+  "author": { "name": "rohitjz" },
+  "homepage": "https://github.com/rohitjz/stock-advisor-pro",
+  "license": "Apache-2.0",
+  "keywords": ["finance", "stocks", "investing", "valuation", "dcf", "lbo", "equity-research", "tradingview", "mcp"]
+}
