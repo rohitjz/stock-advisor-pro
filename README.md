@@ -1,5 +1,7 @@
 # Stock Advisor Pro
 
+> The ten skills are also in my skills collection, [rohitjz/skills](https://github.com/rohitjz/skills/tree/main/skills/finance), under `skills/finance/`. This repo remains the full Claude Code plugin, with commands and agents.
+
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue) ![Claude Code](https://img.shields.io/badge/Claude%20Code-plugin-8A2BE2)
 
 Pro-grade equity research and valuation, as agents and skills for [Claude Code](https://claude.com/claude-code). Free to run: no Bloomberg, no FactSet, no enterprise data contract.
